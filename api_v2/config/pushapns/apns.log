@@ -1,0 +1,1186 @@
+This user does not exist in the database. Message will not be delivered.
+
+	1) APNS::queueMessage -> File: samples.php (line 66)
+	2) APNS::_triggerError -> File: class_APNS.php (line 888)
+
+This user does not exist in the database. Message will not be delivered.
+
+	1) APNS::queueMessage -> File: samples.php (line 75)
+	2) APNS::_triggerError -> File: class_APNS.php (line 888)
+
+This user does not exist in the database. Message will not be delivered.
+
+	1) APNS::queueMessage -> File: samples.php (line 84)
+	2) APNS::_triggerError -> File: class_APNS.php (line 888)
+
+This user does not exist in the database. Message will not be delivered.
+
+	1) APNS::queueMessage -> File: samples.php (line 91)
+	2) APNS::_triggerError -> File: class_APNS.php (line 888)
+
+This user does not exist in the database. Message will not be delivered.
+
+	1) APNS::queueMessage -> File: samples.php (line 96)
+	2) APNS::_triggerError -> File: class_APNS.php (line 888)
+
+This user does not exist in the database. Message will not be delivered.
+
+	1) APNS::queueMessage -> File: samples.php (line 101)
+	2) APNS::_triggerError -> File: class_APNS.php (line 888)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 107)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 107)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 108)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 108)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 220)
+	3) APNS::_triggerError -> File: class_APNS.php (line 280)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 220)
+	3) APNS::_triggerError -> File: class_APNS.php (line 280)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 220)
+	3) APNS::_triggerError -> File: class_APNS.php (line 280)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 220)
+	3) APNS::_triggerError -> File: class_APNS.php (line 281)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 220)
+	3) APNS::_triggerError -> File: class_APNS.php (line 280)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 221)
+	3) APNS::_triggerError -> File: class_APNS.php (line 282)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 221)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 221)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 286)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 286)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 286)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 286)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 286)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 286)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 472)
+	5) APNS::_triggerError -> File: class_APNS.php (line 498)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 474)
+	5) APNS::_triggerError -> File: class_APNS.php (line 542)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 286)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 286)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 472)
+	5) APNS::_triggerError -> File: class_APNS.php (line 498)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 474)
+	5) APNS::_triggerError -> File: class_APNS.php (line 542)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 472)
+	5) APNS::_triggerError -> File: class_APNS.php (line 498)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 474)
+	5) APNS::_triggerError -> File: class_APNS.php (line 542)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 472)
+	5) APNS::_triggerError -> File: class_APNS.php (line 498)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 474)
+	5) APNS::_triggerError -> File: class_APNS.php (line 542)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 472)
+	5) APNS::_triggerError -> File: class_APNS.php (line 498)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1137)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 422)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 474)
+	5) APNS::_triggerError -> File: class_APNS.php (line 542)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Production Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 468)
+	5) APNS::_triggerError -> File: class_APNS.php (line 494)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1133)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 418)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 470)
+	5) APNS::_triggerError -> File: class_APNS.php (line 538)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 284)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 285)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 285)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 285)
+
+Missing Sandbox Certificate.
+
+	1) APNS::__construct -> File: samples.php (line 57)
+	2) APNS::checkSetup -> File: class_APNS.php (line 223)
+	3) APNS::_triggerError -> File: class_APNS.php (line 285)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
+Failed to connect to APNS: 0 .
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_connectSSLSocket -> File: class_APNS.php (line 471)
+	5) APNS::_triggerError -> File: class_APNS.php (line 497)
+
+A connected socket to APNS wasn't available.
+
+	1) APNS::processQueue -> File: samples.php (line 106)
+	2) APNS::_fetchMessages -> File: class_APNS.php (line 1136)
+	3) APNS::_iterateMessages -> File: class_APNS.php (line 421)
+	4) APNS::_pushMessage -> File: class_APNS.php (line 473)
+	5) APNS::_triggerError -> File: class_APNS.php (line 541)
+
