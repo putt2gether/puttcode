@@ -1,0 +1,2 @@
+[04-Nov-2017 18:25:16 Asia/Calcutta] PHP Warning:  PDO::__construct(): MySQL server has gone away in /home/putt2gether/public_html/puttdemo/api_v2/config/pdo/database_connectivity_class.php on line 33
+[04-Nov-2017 18:25:16 Asia/Calcutta] PHP Warning:  PDO::__construct(): Error while reading greeting packet. PID=28069 in /home/putt2gether/public_html/puttdemo/api_v2/config/pdo/database_connectivity_class.php on line 33

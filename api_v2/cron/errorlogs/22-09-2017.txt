@@ -1,0 +1,1 @@
+Time : 13:53:01 ==> SQLSTATE[42S22]: Column not found: 1054 Unknown column 'evnet_id' in 'where clause' ===> The SQL Statement is : SELECT group_concat(push_notification_id) from push_notification_user_list WHERE push_type = 3 and is_invite_send=0 and evnet_id=1051 GROUP BY push_notification_id ORDER BY push_notification_id ASC
