@@ -1,0 +1,66 @@
+<?php
+class State{
+	public $db,$data = array();
+	
+	function __construct(){
+		global $database;
+		$this->db = $database;
+		$this->table = _STATE_TBL_;
+		
+	}
+	
+	function getStateList($data){
+		 $cdata =$stateArray=array();
+		 
+			$countryId = (isset($data['country_id']) && $data['country_id'] >0)?$data['country_id']:0;
+			$user_id = (isset($data['user_id']))?$data['user_id']:'0';
+			if($countryId > 0){
+                                $queryString = "SELECT s.state_id, s.state_name FROM golf_course g LEFT JOIN city c ON c.city_id = g.city_id LEFT JOIN state s ON s.state_id = c.state_id
+WHERE g.city_id != '0' and g.is_active = '1'  and  c.country_id = ".$countryId." and s.state_id > 0 GROUP BY c.state_id order by s.state_name asc";
+				/*$queryString = "SELECT s.state_id, s.state_name FROM "._STATE_TBL_." s WHERE s.country_id = ".$countryId." GROUP BY s.state_id order by s.state_name asc"; */
+				$queryResult  = $this->db->FetchQuery($queryString);
+			
+				if(count($queryResult) > 0){
+					$stateArray = array();
+					foreach($queryResult as $v=>$c){
+						$request_to_participate=0;
+						$total_event=0;
+						if($user_id > 0){
+						$q="SELECT g.city_id,c.state_id, e.event_id, (SELECT count( * ) FROM event_player_list WHERE player_id ='".$user_id."' AND event_id = e.event_id AND is_accepted ='0' and add_player_type='1') AS request_to_participate_event,(select count(*) from event_player_list where player_id ='".$user_id."' and event_id=e.event_id and ((case when (add_player_type != '0') THEN is_accepted = 1 else (player_id>0 and is_accepted in (0,1)) END))) as is_exist_user FROM event_table e LEFT JOIN golf_course g ON g.golf_course_id = e.golf_course_id LEFT JOIN city c ON c.city_id = g.city_id WHERE e.is_public = '1' AND e.is_started IN ( 0, 1 ) AND DATE(e.event_start_date_time)>='".date("Y-m-d")."' AND c.state_id ='".$c['state_id']."'";	
+						$resdata = $this->db->FetchQuery($q);
+						if(count($resdata)>0){
+						  foreach($resdata as $gp=>$grow){
+							$total_event++;
+							if($grow['request_to_participate_event']>0){
+					$request_to_participate++;
+				}
+				if($grow['is_exist_user']<=0){
+					$request_to_participate++;
+				}
+						  }
+						}
+						}
+						$c['has_event']=($request_to_participate > 0)?"1":"0";						
+						$stateArray[] = $c;
+					}
+					$cdata['status'] = '1';
+					$cdata['StateList'] = $stateArray;	
+					$cdata['msg'] = 'State List';
+					
+				}
+				else{
+					$cdata['status'] = '1';
+					$cdata['StateList'] = '';	
+					$cdata['msg'] = 'State List Empty';
+				}
+			}else{
+					$cdata['status'] = '0';
+					$cdata['StateList'] = '';	
+					$cdata['msg'] = 'Please Select Country';
+				}
+            return $cdata ;
+	
+	}
+	
+}
+?>
