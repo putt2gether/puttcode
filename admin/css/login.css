@@ -1,0 +1,44 @@
+body { font-family: 'Roboto Condensed', sans-serif; font-size:14px; }
+.bgImage{ background-attachment:fixed; background-image:url('../images/login_bg.png');}
+
+a{ text-decoration:none!important;}
+.alert-custom{ position:fixed;top:0;left:0; width:100%; z-index:999; color:white;text-align:center; padding:8px 15px;}
+.alert-custom.success{ background-color:#337ab7;}
+.alert-custom.danger{ background-color:red;}
+div.line{background-color:#f22d2d; display:block; width:100%;  height:2px; margin:10px auto;}
+div.line span { background-color:#0074d9; width:50%; display:block; height:2px;}
+
+/*login*/
+.login-conatiner { 	 margin-top:5%; }
+body.login .logo {text-align:center;}
+body.login .logo span{ display:block; font-size:12px; margin-top:5px; font-weight:600; 	 }
+body.login h1{ 	 font-size:22px;}
+body.login p{	 text-align:justify;}
+body.login .copyright { 	 text-align:center; }
+body.login .copyright a{     color: #7B7B7B;}
+
+.login-form { 	 max-width:400px; margin:auto; }
+.login-form .form-control{ 	 border-radius:0; height:45px; background-position:5px center; background-repeat:no-repeat; }
+.login-form .btn { 	    background-color: #0074D9;      width: 100%;      color: white;     height: 51px;  margin-top:15px; }
+.login-form  label {   cursor:pointer; }
+.login-form  .form-control.user { 	 background-image:url('../images/user.png');  padding-left:40px;}
+.login-form  .form-control.pass{   background-image:url('../images/lock.png'); padding-left:40px; }
+.login-form  .form-group { 	 position:relative; margin-bottom: 1.5rem; }
+.login-form  .form-group small { position:absolute;}
+
+/*error*/
+.login-form  .form-group.has-error .form-control, .login-form  .form-group.has-error small{  border-color:#dc2a26;color:#dc2a26;  	 }
+.login-form  .form-group  small {font-size: 88%; }
+
+
+.login-form div.line,  .login-form  div.line span { 	height:2px; }
+.login-form  h3{  font-size:18px; text-align:center;	 }
+hr{    border-top: 1px solid rgba(0, 0, 0, 0.24);}
+.alert-custom { transition:all 1s ease-in-out;      width: 100%;     left: 0;      top: 0;     position: fixed;      padding: 8px;     text-align: center;      font-size: 16px;     font-weight: 300; }
+.alert-custom.error { cursor:pointer; transition:all 1s ease-in-out;	    background-color: #DC2A26;     color: white;}
+i.close-alert {float:right; margin-right:10px;}
+.alert-custom.success {transition:all 1s ease-in-out;   background-color: #377100;      color: white; }
+form i.form-control-feedback { display: inline;
+    position: absolute;
+    right: 5px;
+    top: 44px;}

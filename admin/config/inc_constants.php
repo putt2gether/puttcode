@@ -1,0 +1,10 @@
+<?php
+define("Number_of_Rows_Per_Page","100");
+define("_PAR_","#0056A5");
+define("_BIRDIE_","#81B3DB");
+define("_BOGEY_","#939494");
+define("_DOUBLE_BOGEY_","#000000");
+define("_EAGLE_","#F4AA43");
+define('_UPLOADS_BANNER_PATH_',BASE_PATH.'uploads/banner/');
+define('_DISPLAY_BANNER_PATH_',__BASE_URI__.'uploads/banner/');
+?>

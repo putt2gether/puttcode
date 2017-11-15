@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="en" >
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+   <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/login.css">
+  </head>
+  <body class="bgImage login">
+
+	<div class="container" >
+		<div class="login-conatiner">
+
+				<!--login-form--->
+
+				<form class="login-form" autocomplete="off" id="login_Form" method="post" novalidate="novalidate">
+				<div class="logo"><img src="images/logo1.png" alt="logo"</div>
+					<div class="line"><span></span></div>
+					<h3>Administrator Login Panel</h3>
+					<hr>
+
+					<!--uasername-->
+					<div class="form-group" >
+						<label for="username">Administrators Username</label>
+						<input type="text" class="form-control user" placeholder="Username" id="username" autocomplete="off"  name="admin_Username" required="required">
+
+					</div>
+
+					<!--password-->
+					<div class="form-group" >
+						<label for="password">Administrators Password</label>
+						<input type="password" class="form-control pass" placeholder="Password" id="password" autocomplete="off"  name="admin_Password" required="required">
+					</div>
+
+					<div class="form-group">
+
+						<button type="submit" id="login_FormButton" class="btn"><i class="fa fa-lock"></i> Administrators Login </button>
+					</div>
+
+
+
+				</form>
+
+
+
+			<div class="clearfix"></div>
+			<div class="copyright">
+						<div class="line"><span></span></div>
+						<!--a>Copyright 2015-2016 Acetz Technologies</a-->
+					</div>
+		</div>
+
+	</div>
+<script src="js/jquery-1.11.1.min.js"></script>
+<script src="js/validator.js"></script>
+<script>
+$("#login_Form").bootstrapValidator(
+{feedbackIcons: {
+valid: 'fa fa-check icon-animated-vertical',
+invalid: 'fa fa-exclamation-triangle icon-animated-vertical',
+validating: 'glyphicon glyphicon-refresh icon-animated-vertical'  },
+fields: {
+}
+}).on('success.form.bv', function(e) {
+e.preventDefault();
+// Get the form instance
+var $form = $(e.target);
+// Get the BootstrapValidator instance
+var bv = $form.data('bootstrapValidator');
+// Use Ajax to submit form data
+$("#login_FormButton").attr('disabled','disabled');
+$("body").prepend("<div class='alert-custom success' id='alert_category'>Processing....</div>");
+$.ajax({
+dataType: "json",
+url: "services/process_login.php",
+type: "POST",
+data:  new FormData(this),
+contentType: false,
+cache: false,
+processData:false,
+success: function(data)
+{
+  //console.log(data);
+if($.trim(data.status)==1)
+{
+	$("#login_FormButton").removeAttr('disabled');
+	$('#login_Form')[0].reset();
+	$('#login_Form').bootstrapValidator('resetForm', true);
+	$(".alert-custom").html(data.message);
+	setTimeout(function(){ $(".alert-custom").remove(); },3000);
+	location.assign("golf-course-listing.php");
+}
+else if($.trim(data.status)==0)
+{
+	$("#login_FormButton").removeAttr('disabled');
+	$('#login_Form')[0].reset();
+	$('#login_Form').bootstrapValidator('resetForm', true);
+	$(".alert-custom").removeClass("success").addClass("danger");
+	$(".alert-custom").html(data.message);
+	setTimeout(function(){ $(".alert-custom").remove(); },3000);
+}
+}
+});});
+</script>
+	</body>
+</html>
